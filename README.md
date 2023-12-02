@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! 👋 </h1>
 
 <h2 align="left"> About Me: </h2>
-<h3 align="left"> I am Mark Christan Geronimo. An aspiring Full Stack Web Developer with a passion for learning and building. Currently on a journey to explore the vast world of web development and acquire the skills to create innovative and impactful web applications. Excited about the endless possibilities and challenges that lie ahead! </h3>
+<p align="left"> I am Mark Christan Geronimo. An aspiring Full Stack Web Developer with a passion for learning and building. Currently on a journey to explore the vast world of web development and acquire the skills to create innovative and impactful web applications. Excited about the endless possibilities and challenges that lie ahead! </p>
 
 <h1 align="left">Education: </h1>
 <h3 align="left">Bachelor's of Science in Information Technology </h3>
