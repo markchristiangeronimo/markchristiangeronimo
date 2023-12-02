@@ -21,9 +21,9 @@
 <h2 align="left">Skill sets: </h2>
 <p align="left">FrontEnd: HTML, CSS, JavaScript </p>
 <p align="left">Back End: Python (eager to learn) </p>
-<h4 align="left">Database: IBM DB2 Cloud </h4>
-<h4 align="left">Programming: Java </h4>
-<h4 align="left">Tools: VS Code, Eclipse </h4>
+<p align="left">Database: IBM DB2 Cloud </p>
+<p align="left">Programming: Java </p>
+<p align="left">Tools: VS Code, Eclipse </p>
 
 <h2 align="left">Contacts: </h2>
 
