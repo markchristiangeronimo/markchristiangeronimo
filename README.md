@@ -1,9 +1,5 @@
 <h1 align="center"> Greetings! 👋 </h1>
 
-<p align="center"> Visitor count<br>
-<img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
-</p>
-
 <h1 align="left"> About Me: </h1>
 <p align="left"> I am Mark Christan Geronimo. An aspiring Full Stack Web Developer with a passion for learning and building. Currently on a journey to explore the vast world of web development and acquire the skills to create innovative and impactful web applications. Excited about the endless possibilities and challenges that lie ahead! </p>
 
@@ -34,3 +30,7 @@
 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
 
 Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
+
+<p align="center"> Visitor count
+<br><img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
+Thank you, come again!</p>
