@@ -1,6 +1,4 @@
-<h1 align="center">Greetings! 👋</h1>
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/markchristiangeronimo/markchristiangeronimo/master/resources/banner.png" alt="Greetings">
 
 <p align="center"> Visitor count<br>
 <img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
