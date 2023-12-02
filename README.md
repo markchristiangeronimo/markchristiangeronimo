@@ -33,4 +33,4 @@ Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronim
 
 <p align="center"> Visitor count
 <br><img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
-Thank you, come again!</p>
+<br>Thank you, come again!</p>
