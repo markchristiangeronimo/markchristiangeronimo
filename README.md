@@ -25,7 +25,7 @@
 <h4 align="left">Programming: Java </h4>
 <h4 align="left">Tools: VS Code, Eclipse </h4>
 
-<h1 align="left">Contact: </h1>
+<h1 align="left">Contacts: </h1>
 
 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
 
