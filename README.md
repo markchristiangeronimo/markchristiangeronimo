@@ -6,9 +6,9 @@
   Excited about the endless possibilities and challenges that lie ahead! </p>
 
 <h1 align="left">Education: </h1>
-<p align="left">Bachelor's of Science in Information Technology 
+<h4 align="left">Bachelor's of Science in Information Technology 
 <br> New Era University
-<br> 2023 - Present </p>
+<br> 2023 - Present </h4>
 
 <h1 align="left">Certification: </h1>
 
