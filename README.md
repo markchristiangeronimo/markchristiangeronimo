@@ -1,5 +1,4 @@
 <h1 align="center">Greetings! 👋</h1>
-
 <h2 align="left"> About Me: </h2>
 <h3 align="left"> I'm Mark Christan Geronimo </h3>
 
