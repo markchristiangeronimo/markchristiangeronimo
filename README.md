@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/markchristiangeronimo/markchristiangeronimo/master/resources/banner.png" alt="Greetings">
+<h1 align="center"> Greetings! 👋 </h1>
 
 <p align="center"> Visitor count<br>
 <img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
