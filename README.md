@@ -4,7 +4,7 @@
 <p align="left"> I am Mark Christan Geronimo. An aspiring Full Stack Web Developer with a passion for learning and building. Currently on a journey to explore the vast world of web development and acquire the skills to create innovative and impactful web applications. Excited about the endless possibilities and challenges that lie ahead! </p>
 
 <h1 align="left">Education: </h1>
-<h5 align="left">Bachelor's of Science in Information Technology </h5>
+<h4 align="left">Bachelor's of Science in Information Technology </h4>
 <p align="left">New Era University </p>
 <p align="left">2023 - Present </p>
 
