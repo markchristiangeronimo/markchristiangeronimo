@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
 </p>
 
 <h1 align="left"> About Me: </h1>
