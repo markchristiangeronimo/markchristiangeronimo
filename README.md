@@ -27,11 +27,11 @@
 
 <h2 align="left">Contacts: </h2>
 
-LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mark-christian-geronimo/)
 
 Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
 
-Facebook: [Facebook Profile Link](https://www.facebook.com/msxzw)
+Facebook: [Facebook Profile](https://www.facebook.com/msxzw)
 
 <p align="center"> Visitor's count
 <br><img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
