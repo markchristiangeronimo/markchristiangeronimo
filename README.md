@@ -1,4 +1,4 @@
-# align="center">Greetings! 👋
+<h1 align="center">Greetings! 👋</h1>
 
 <p align="center"> 
   Visitor count<br>
