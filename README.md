@@ -19,9 +19,14 @@
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9)
 
 <h1 align="left">Skill sets: </h1>
-<h4 align="left">FrontEnd: HTML, CSS, JAVA SCRIPT</h4>
-<p>Front End: HTML, CSS, JAVA SCRIPT </p>
-<p>Back End: Python (currently learning) </p>
-<p>Database: IBM DB2 Cloud </p>
-<p>Programming: Java </p>
-<p>Tools: VS Code, Eclipse </p>
+<h4 align="left">FrontEnd: HTML, CSS, JavaScript </h4>
+<h4 align="left">Back End: Python (currently learning) </h4>
+<h4 align="left">Database: IBM DB2 Cloud </h4>
+<h4 align="left">Programming: Java </h4>
+<h4 align="left">Tools: VS Code, Eclipse </h4>
+
+<h1 align="left">Contact: </h1>
+
+[LinkedIn](https://www.linkedin.com/in/mark-christian-geronimo/)
+
+<p align="left">Email: geronimo.mcm@gmail.com</p>
