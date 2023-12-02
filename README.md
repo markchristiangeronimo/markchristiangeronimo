@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! 👋</h1>
 <h2 align="left"> About Me: </h2>
-<h3 align="left"> I'm Mark Christan Geronimo </h3>
+<h3 align="left"> I'm Mark Christan Geronimo. A dedicated Full Stack Web Developer with a love for coding and problem-solving. I enjoy working on both the front-end and back-end to create web applications that are functional and user-friendly.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
