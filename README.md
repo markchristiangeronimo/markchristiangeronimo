@@ -9,7 +9,8 @@
 <h3 align="left">2023 - Present </h3>
 
 <h1 align="left">Certification: </h1>
-<h3 align="left"> <a href="https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9" Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate </a></h3>
+[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate] (https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9)
+<h3 align="left">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate </h3>
     
 <h3 align="left">Oracle Cloud Data Management 2023 Certified Foundations Associate </h3>
 <h3 align="left">Oracle Cloud Infrastructure 2023 Certified Foundations Associate </h3>
