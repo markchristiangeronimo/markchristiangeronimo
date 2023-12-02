@@ -1,8 +1,9 @@
 <h1 align="center">Greetings! 👋</h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> Visitor count<br>
+<img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
 </p>
 
 <h1 align="left"> About Me: </h1>
