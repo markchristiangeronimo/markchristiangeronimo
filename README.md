@@ -27,6 +27,6 @@
 
 <h1 align="left">Contact: </h1>
 
-[LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
+LinkedIn:[LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
 
-Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
+Email:[geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
