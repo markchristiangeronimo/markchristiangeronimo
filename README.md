@@ -9,14 +9,14 @@
 <h3 align="left">2023 - Present </h3>
 
 <h1 align="left">Certification: </h1>
+
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBB28220DE0A7C522B9C7137260710AF1F2E1892D729BE0E3A554C1F589A37C7)
 
 [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5308F450437D83D551AC817131A0FFFD0A9D261D72A1ED157F87439525C70B9)
 
 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3486046A87970676E8689C1FF84E3D882E5A8300794F7C746E5D5934746B69AC&fbclid=IwAR2M3aEBbKjvHFDdn8q_sYcq4VtYXyTNhtHyxDRArlrJax4nH25dvK7B0lg)
+
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9)
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
