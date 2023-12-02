@@ -5,8 +5,8 @@
 
 <h1 align="left">Education: </h1>
 <p align="left">Bachelor's of Science in Information Technology </p>
-<h4 align="left">New Era University </h4>
-<h4 align="left">2023 - Present </h4>
+<p align="left">New Era University </p>
+<p align="left">2023 - Present </p>
 
 <h1 align="left">Certification: </h1>
 
