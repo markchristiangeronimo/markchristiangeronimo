@@ -4,7 +4,7 @@
 <p align="left"> I am Mark Christan Geronimo. An aspiring Full Stack Web Developer with a passion for learning and building. Currently on a journey to explore the vast world of web development and acquire the skills to create innovative and impactful web applications. Excited about the endless possibilities and challenges that lie ahead! </p>
 
 <h1 align="left">Education: </h1>
-<p align="left">Bachelor's of Science in Information Technology </p>
+<h5 align="left">Bachelor's of Science in Information Technology </h5>
 <p align="left">New Era University </p>
 <p align="left">2023 - Present </p>
 
@@ -19,6 +19,8 @@
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9)
 
 <h1 align="left">Skill sets: </h1>
-<p>Programming :  Java, Javascript</p>
-<p>Databases: IBM DB2 Cloud</p>
-<p>Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML</p>
+<p>Front End: HTML, CSS, JAVA SCRIPT </p>
+<p>Back End: Python (currently learning) </p>
+<p>Database: IBM DB2 Cloud </p>
+<p>Programming: Java </p>
+<p>Tools: VS Code, Eclipse /p>
