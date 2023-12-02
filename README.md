@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Mark Christian Geronimo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Greetings! 👋</h1>
 <h1 align="left"> About Me: </h1>
 
 <h3 align="left">Connect with me:</h3>
