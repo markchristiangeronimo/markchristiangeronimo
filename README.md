@@ -19,7 +19,7 @@
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/32c0c63987e841ff99259739157b27f9)
 
 <h1 align="left">Skill sets: </h1>
-<h4 align="left">FrontEnd: <p>HTML, CSS, JAVA SCRIPT</h4></p> 
+<h4 align="left">FrontEnd: HTML, CSS, JAVA SCRIPT</h4>
 <p>Front End: HTML, CSS, JAVA SCRIPT </p>
 <p>Back End: Python (currently learning) </p>
 <p>Database: IBM DB2 Cloud </p>
