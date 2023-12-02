@@ -33,6 +33,8 @@ LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-ger
 
 Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
 
+Facebook: [Facebook Profile Link](https://www.facebook.com/msxzw)
+
 <p align="center"> Visitor's count
 <br><img src="https://profile-counter.glitch.me/markchristiangeronimo/count.svg" />
 <br>Thank you, come again!</p>
