@@ -29,4 +29,4 @@
 
 [LinkedIn Profile Link](https://www.linkedin.com/in/mark-christian-geronimo/)
 
-<p align="left">Email: geronimo.mcm@gmail.com</p>
+Email: [geronimo.mcm@gmail.com](https://mail.google.com/mail/u/?authuser=geronimo.mcm@gmail.com)
