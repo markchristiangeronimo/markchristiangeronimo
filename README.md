@@ -6,9 +6,11 @@
 <h2 align="left">Education: </h2>
 <p align="left">Bachelor's of Science in Information Technology 
 <br> New Era University
-<br> 2023 - Present </p>
+<br> 2024 - Present </p>
 
 <h2 align="left">Certification: </h2>
+
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a1b300979c534fc4839ced4314560746)
 
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBB28220DE0A7C522B9C7137260710AF1F2E1892D729BE0E3A554C1F589A37C7)
 
