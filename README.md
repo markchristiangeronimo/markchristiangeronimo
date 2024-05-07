@@ -25,7 +25,7 @@
 <p align="left">Back End: Python (eager to learn) </p>
 <p align="left">Database: IBM DB2 Cloud </p>
 <p align="left">Programming: Java </p>
-<p align="left">Tools: VS Code, Eclipse </p>
+<p align="left">Tools: VS Code, Eclipse, Android Studio, IntelliJ, Pycharm </p>
 
 <h2 align="left">Contacts: </h2>
 
